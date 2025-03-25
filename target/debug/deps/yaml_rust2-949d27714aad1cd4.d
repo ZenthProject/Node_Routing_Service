@@ -1,0 +1,11 @@
+C:\wamp64\www\Node_Routing_Service\target\debug\deps\libyaml_rust2-949d27714aad1cd4.rmeta: C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\lib.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\char_traits.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\debug.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\emitter.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\parser.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\scanner.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\yaml.rs
+
+C:\wamp64\www\Node_Routing_Service\target\debug\deps\yaml_rust2-949d27714aad1cd4.d: C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\lib.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\char_traits.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\debug.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\emitter.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\parser.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\scanner.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\yaml.rs
+
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\lib.rs:
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\char_traits.rs:
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\debug.rs:
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\emitter.rs:
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\parser.rs:
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\scanner.rs:
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust2-0.10.0\src\yaml.rs:

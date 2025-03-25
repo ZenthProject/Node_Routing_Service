@@ -1,0 +1,11 @@
+C:\wamp64\www\Node_Routing_Service\target\debug\deps\libpest_generator-337c9cfc6c6cd0d8.rmeta: C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\lib.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\macros.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\docs.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\generator.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\parse_derive.rs
+
+C:\wamp64\www\Node_Routing_Service\target\debug\deps\libpest_generator-337c9cfc6c6cd0d8.rlib: C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\lib.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\macros.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\docs.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\generator.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\parse_derive.rs
+
+C:\wamp64\www\Node_Routing_Service\target\debug\deps\pest_generator-337c9cfc6c6cd0d8.d: C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\lib.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\macros.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\docs.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\generator.rs C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\parse_derive.rs
+
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\lib.rs:
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\macros.rs:
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\docs.rs:
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\generator.rs:
+C:\Users\xana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.7.15\src\parse_derive.rs:
