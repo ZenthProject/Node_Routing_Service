@@ -14,9 +14,6 @@ impl RoutingService {
         }
     }
 
-    pub fn RoutingDefault(flag: String){
-        
-    }
 
     //Return ip + port 
     pub fn get_address(&self) -> String {
