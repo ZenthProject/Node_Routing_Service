@@ -1,6 +1,6 @@
 mod routes;
 
-use crate::routes::routing_service::routing_service;
+use crate::routes::routing_service::RoutingService;
 use tracing_subscriber::EnvFilter;
 
 #[tokio::main]
@@ -17,12 +17,12 @@ async fn main() {
  
     axum::serve(
         tokio::net::TcpListener::bind(
-            routing_service::new(
+            RoutingService::new(
                 ip_address.to_string(),
                 port_service.to_string()
             ).get_address()
         ).await.unwrap(), 
-        routing_service::new(
+        RoutingService::new(
             ip_address.to_string(),
             port_service.to_string()
         ).routes_modules_get(

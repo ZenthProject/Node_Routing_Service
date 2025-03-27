@@ -5,13 +5,17 @@ pub struct RoutingService{
     port_service: String 
 }
 
-impl routing_service {
+impl RoutingService {
     //Constructor for routage application
     pub fn new(ip_address: String, port_service: String) -> Self {
         RoutingService {
             ip_address,
             port_service,
         }
+    }
+
+    pub fn RoutingDefault(flag: String){
+        
     }
 
     //Return ip + port 
