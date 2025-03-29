@@ -9,6 +9,7 @@ dependencies = [
  "axum",
  "config",
  "hyper",
+ "serde",
  "tokio",
  "tracing",
  "tracing-subscriber",

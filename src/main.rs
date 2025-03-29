@@ -1,6 +1,11 @@
 mod routes;
+mod handlers;
 
+use crate::handlers::request_handler::dynamic_handler;
 use crate::routes::routing_service::RoutingService;
+
+use axum::routing::get;
+
 use tracing_subscriber::EnvFilter;
 
 #[tokio::main]
@@ -21,13 +26,14 @@ async fn main() {
                 ip_address.to_string(),
                 port_service.to_string()
             ).get_address()
-        ).await.unwrap(), 
+        ).await.unwrap(),
         RoutingService::new(
             ip_address.to_string(),
             port_service.to_string()
-        ).routes_modules_get(
-            "/".to_string(),
-            "Welcome to the server relay Zenth !".to_string()
+        ).route_with_method(
+            "/",
+            "".to_string(),
+            get(dynamic_handler)
         )
     ).await.unwrap();
 
